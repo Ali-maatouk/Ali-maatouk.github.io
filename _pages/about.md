@@ -28,7 +28,7 @@ rel="noopener noreferrer">CentraleSupélec</a> in 2017, specializing in informat
 national André Blanc-Lapierre Awards for the best graduate student in France in the domain of
 electricity, information technology, and communication. 
 
-My research interests are in the broad areas of artificial intelligence, mathematical modeling, and data-driven optimization of large-scale systems. Throughout my research journey, I have published over 40 articles in the top venues of the fields of artificial intelligence, signal processing, and information theory. Above all, I consider myself lucky for having been able to work with extraordinary mentors and colleagues, meet exceptional friends, and explore beautiful countries thanks to my professional journey.
+My research interests are in the broad areas of artificial intelligence, mathematical modeling, and data-driven optimization of large-scale systems. Throughout my research journey, I have published over 50 articles in the top venues of the fields of artificial intelligence, signal processing, and information theory. Above all, I consider myself lucky for having been able to work with extraordinary mentors and colleagues, meet exceptional friends, and explore beautiful countries thanks to my professional journey.
 
 # 🔥 News
 
@@ -63,7 +63,7 @@ My research interests are in the broad areas of artificial intelligence, mathema
         color: #0f172a;
         border: 1px solid #e2e8f0;
       ">
-        📚 <strong>1,852</strong> citations
+        📚 <strong>2,058</strong> citations
       </span>
     </a>
 
@@ -82,7 +82,7 @@ My research interests are in the broad areas of artificial intelligence, mathema
         color: #0f172a;
         border: 1px solid #e2e8f0;
       ">
-        📊 <strong>20</strong> h-index
+        📊 <strong>21</strong> h-index
       </span>
     </a>
 
@@ -101,7 +101,7 @@ My research interests are in the broad areas of artificial intelligence, mathema
         color: #0f172a;
         border: 1px solid #e2e8f0;
       ">
-        📈 <strong>27</strong> i10-index
+        📈 <strong>28</strong> i10-index
       </span>
     </a>
   </div>
@@ -168,11 +168,18 @@ Jiasheng Zhang, **Ali Maatouk**, Jialin Chen, Ngoc Bui, Qianqian Xie, Leandros T
 
 <ol start="1">
 <li><i>LitBench: A Graph-Centric Large Language Model Benchmarking Tool For Literature Tasks.</i> A. Varvarigos, <b>A. Maatouk</b>, J. Zhang, N. Bui, J. Chen, L. Tassiulas, R. Ying. To appear in Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2026.</li>
+
+<li><i>Parameter-Efficient Fine-Tuning of LLMs with Mixture of Space Experts.</i> B. Zhang, J. Tao, Z. Zeng, N. He, <b>A. Maatouk</b>, M. Yang, R. Ying. arXiv preprint arXiv:2602.14490, 2026.</li>
+
+<li><i>HypRAG: Hyperbolic Dense Retrieval for Retrieval-Augmented Generation.</i> H. Madhu, N. Bui, <b>A. Maatouk</b>, L. Tassiulas, S. Krishnaswamy, M. Yang, S. Ganguly, K. Srinivasan, R. Ying. arXiv preprint arXiv:2602.07739, 2026.</li>
+
+<li><i>Multi-Modal Time Series Prediction via Mixture of Modulated Experts.</i> L. Zhang, <b>A. Maatouk</b>, J. Chen, L. Tassiulas, R. Ying. arXiv preprint arXiv:2601.21547, 2026.</li>
+
 </ol>
 
 **2025**
 
-<ol start="2">
+<ol start="5">
 <li><i>Position: Beyond Euclidean-Foundation Models Should Embrace Non-Euclidean Geometries.</i> N. He, J. Liu, B. Zhang, N. Bui, <b>A. Maatouk</b>, M. Yang, I. King, M. Weber, R. Ying. The Fourth Learning on Graphs Conference (LoG), 2025 [<b><span style="color:red;">Oral</span></b>].</li>
 
 <li><i>TRACE: Grounding Time Series in Context for Multimodal Embedding and Retrieval.</i> J. Chen, Z. Zhao, G. Nurbek, A. Feng, <b>A. Maatouk</b>, L. Tassiulas, Y. Gao, R. Ying. The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025.</li>
@@ -204,7 +211,7 @@ Jiasheng Zhang, **Ali Maatouk**, Jialin Chen, Ngoc Bui, Qianqian Xie, Leandros T
 
 **2024**
 
-<ol start="16">
+<ol start="19">
 <li><i>Pay Attention to What Matters.</i> P. L. Silva, A. de Domenico, <b>A. Maatouk</b>, F. Ayed. MINT@NeurIPS2024, 2024.</li>
 
 <li><i>Tele-LLMs: A Series of Specialized Large Language Models for Telecommunications.</i> <b>A. Maatouk</b>, K. C. Ampudia, R. Ying, L. Tassiulas. arXiv preprint arXiv:2409.05314, 2024.</li>
@@ -217,14 +224,12 @@ Jiasheng Zhang, **Ali Maatouk**, Jialin Chen, Ngoc Bui, Qianqian Xie, Leandros T
 
 <li><i>Hermes: A Large Language Model Framework on the Journey to Autonomous Networks.</i> F. Ayed, <b>A. Maatouk</b>, N. Piovesan, A. De Domenico, M. Debbah, Z. Q. Luo. arXiv preprint arXiv:2411.06490, 2024.</li>
 
-<li><i>Predictive handover strategy in 6G and beyond: A deep and transfer learning approach.</i> I. Panitsas, A. Mudvari, <b>A. Maatouk</b>, L. Tassiulas. arXiv preprint arXiv:2404.08113, 2024.</li>
-
 <li><i>A framework for the evaluation of network reliability under periodic demand.</i> <b>A. Maatouk</b>, F. Ayed, S. Biao, W. Li, H. Bao, E. Zio. IEEE/ACM Transactions on Networking 32 (3), 2495-2510, 2024.</li>
 </ol>
 
 **2023**
 
-<ol start="24">
+<ol start="26">
 <li><i>FlexTrain: A Dynamic Training Framework for Heterogeneous Devices Environments.</i> M. Unsal, <b>A. Maatouk</b>, A. De Domenico, N. Piovesan, F. Ayed. WANT@NeurIPS 2023, 2023.</li>
 
 <li><i>Age-aware stochastic hybrid systems: Stability, solutions, and applications.</i> <b>A. Maatouk</b>, M. Assaad, A. Ephremides. IEEE Journal on Selected Areas in Information Theory 4, 762-783, 2023.</li>
@@ -236,7 +241,7 @@ Jiasheng Zhang, **Ali Maatouk**, Jialin Chen, Ngoc Bui, Qianqian Xie, Leandros T
 
 **2022**
 
-<ol start="28">
+<ol start="30">
 <li><i>Analysis of an age-dependent stochastic hybrid system.</i> <b>A. Maatouk</b>, M. Assaad, A. Ephremides. 2022 IEEE International Symposium on Information Theory (ISIT), 150-155, 2022.</li>
 
 <li><i>The age of incorrect information: An enabler of semantics-empowered communication.</i> <b>A. Maatouk</b>, M. Assaad, A. Ephremides. IEEE Transactions on Wireless Communications 22 (4), 2621-2635, 2022.</li>
@@ -248,13 +253,13 @@ Jiasheng Zhang, **Ali Maatouk**, Jialin Chen, Ngoc Bui, Qianqian Xie, Leandros T
 
 **2021**
 
-<ol start="32">
+<ol start="34">
 <li><i>On the Global Optimality of Whittle's Index Policy for Minimizing the Age of Information.</i> S. Kriouile, M. Assaad, <b>A. Maatouk</b>. IEEE Transactions on Information Theory 68 (1), 572-600, 2021.</li>
 </ol>
 
 **2020**
 
-<ol start="33">
+<ol start="35">
 <li><i>Asymptotically optimal scheduling policy for minimizing the age of information.</i> <b>A. Maatouk</b>, S. Kriouile, M. Assaad, A. Ephremides. 2020 IEEE International Symposium on Information Theory (ISIT), 1747-1752, 2020.</li>
 
 <li><i>The age of incorrect information: A new performance metric for status updates.</i> <b>A. Maatouk</b>, S. Kriouile, M. Assaad, A. Ephremides. IEEE/ACM Transactions on Networking 28 (5), 2215-2228, 2020.</li>
@@ -269,7 +274,7 @@ Jiasheng Zhang, **Ali Maatouk**, Jialin Chen, Ngoc Bui, Qianqian Xie, Leandros T
 
 **2019**
 
-<ol start="38">
+<ol start="40">
 <li><i>Age of information with prioritized streams: When to buffer preempted packets?</i> <b>A. Maatouk</b>, M. Assaad, A. Ephremides. 2019 IEEE International Symposium on Information Theory (ISIT), 325-329, 2019.</li>
 
 <li><i>Energy efficient and throughput optimal CSMA scheme.</i> <b>A. Maatouk</b>, M. Assaad, A. Ephremides. IEEE/ACM Transactions on Networking 27 (1), 316-329, 2019.</li>
@@ -282,7 +287,7 @@ Jiasheng Zhang, **Ali Maatouk**, Jialin Chen, Ngoc Bui, Qianqian Xie, Leandros T
 
 **2018**
 
-<ol start="42">
+<ol start="44">
 <li><i>The age of updates in a simple relay network.</i> <b>A. Maatouk</b>, M. Assaad, A. Ephremides. 2018 IEEE Information Theory Workshop (ITW), 1-5, 2018.</li>
 
 <li><i>On optimal scheduling for joint spatial division and multiplexing approach in FDD massive MIMO.</i> <b>A. Maatouk</b>, S. E. Hajri, M. Assaad, H. Sari. IEEE Transactions on Signal Processing 67 (4), 1006-1021, 2018.</li>
@@ -373,4 +378,4 @@ Joint program: [CentraleSupélec](https://www.centralesupelec.fr) and [Universit
 For detailed information about my research, publications, and professional background, you can download my CV below.
 
 [Download CV (PDF, 250KB)](files/CV_Ali_Maatouk.pdf)  
-*Last updated: December 2025*
+*Last updated: March 2026*
