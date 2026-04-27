@@ -15,12 +15,13 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+
 <span class='anchor' id='about-me'></span>
 
 
-I am a researcher at the <a href="https://fds.yale.edu/" target="_blank" rel="noopener noreferrer">Yale Institute for Foundations of Data Science (FDS)</a>, working with <a href="https://scholar.google.com.au/citations?user=6fqNXooAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Rex Ying</a> and <a href="https://scholar.google.com/citations?user=9qtgcZ8AAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Leandros Tassiulas</a> on the development of foundation models for structured data. Our work focuses on multimodal learning methods that combine geometric and graph-based approaches to analyze text, time-series data, and graph structures, with applications in observability domains and finance. From 2021 to 2023, I was a researcher at <a href="https://www.huawei.com/" target="_blank" rel="noopener noreferrer">Huawei Technologies</a> in France, working on data-driven optimization of large-scale networks. My work consisted of developing machine-learning models using large-scale data and designing optimization frameworks to improve performance. For my contributions, I was the recipient of the 2021 Huawei Future Star Award.
+I am a researcher at the <a href="https://fds.yale.edu/" target="_blank" rel="noopener noreferrer">Yale Institute for Foundations of Data Science (FDS)</a>, working with <a href="https://scholar.google.com.au/citations?user=6fqNXooAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Rex Ying</a> and <a href="https://scholar.google.com/citations?user=9qtgcZ8AAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Leandros Tassiulas</a> on the development of foundation models for structured data. Our work focuses on multimodal learning methods that combine geometric and graph-based approaches to analyze text, time-series data, and graph structures. From 2021 to 2023, I was a researcher at <a href="https://www.huawei.com/" target="_blank" rel="noopener noreferrer">Huawei Technologies</a> in France, working on data-driven optimization of large-scale networks. My work consisted of developing machine-learning models using large-scale data and designing optimization frameworks to improve performance. For my contributions, I was the recipient of the 2021 Huawei Future Star Award.
 
-Before these roles, I completed my PhD in Applied Mathematics, specializing in information theory, jointly at [CentraleSupélec](https://www.centralesupelec.fr) and the [University of Maryland, College Park](https://www.umd.edu/), working with Mohamad Assaad and Anthony Ephremides. My research focused on leveraging stochastic hybrid systems and Markov decision processes to minimize information decay in dynamical systems. For my PhD, I received
+Before these roles, I completed my PhD in Applied Mathematics, specializing in information theory, jointly at [CentraleSupélec](https://www.centralesupelec.fr) and the [University of Maryland, College Park](https://www.umd.edu/), working with Mohamad Assaad and Anthony Ephremides. My research focused on leveraging stochastic hybrid systems and Markov decision processes to minimize information decay in dynamical systems, with applications to wireless networks. For my PhD, I received
 the 2020 <a href="https://www.universite-paris-saclay.fr" target="_blank"
 rel="noopener noreferrer">Paris-Saclay</a> PhD award for one of the best scientific
 contributions. Prior to that, I received my MS degree in Applied Mathematics from <a href="https://www.centralesupelec.fr" target="_blank"
@@ -63,7 +64,7 @@ My research interests are in the broad areas of artificial intelligence, mathema
         color: #0f172a;
         border: 1px solid #e2e8f0;
       ">
-        📚 <strong>2,058</strong> citations
+        📚 <strong>2,163</strong> citations
       </span>
     </a>
 
@@ -101,7 +102,7 @@ My research interests are in the broad areas of artificial intelligence, mathema
         color: #0f172a;
         border: 1px solid #e2e8f0;
       ">
-        📈 <strong>28</strong> i10-index
+        📈 <strong>29</strong> i10-index
       </span>
     </a>
   </div>
